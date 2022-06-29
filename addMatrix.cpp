@@ -4,7 +4,7 @@
 
 
 void fibVec(long int *ptr1, long int *ptr2, int rows, int cols, int number, int &counter);  //function to get matrices from user
-void addM(long int *ma1, long int *ma2, int *ma3, int rows, int cols);                      //function to add matrices together 
+void addM(long int *ma1, long int *ma2, int rows, int cols);                      //function to add matrices together 
 void printM(int currentM, int rows, int cols, long int *value, int totalM);                 //function to print a matrix
 
 
