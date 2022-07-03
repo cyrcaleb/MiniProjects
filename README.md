@@ -18,6 +18,7 @@ The Second Project (register.cpp) in here is a C++ project me and my friend Dono
  
 The Third Project (changePermutations.cpp) in here is a C++ project similar to the second project register that gives the user ALL the possible permutations to get to coin amounts less than $1.00.  
  - The user is prompted to enter a number without a decimal (For example:  for $0.07 you enter 7)
+ - Something to note about this project is that the permutations grow exponentially fast so unless you want to sit there for a few minutes, select numbers < 35
  - The program will output all possible coin permutations and the order in which the coins are picked along with the total number of permutations
  - I purposely chose to do permutations and not combinations in order to show that althought the coin outputs are the same, the order in which they are chose are not
  - Something I might consider adding in the future is making this project visual by showing actualy images of the coins instead of just printing their names.
